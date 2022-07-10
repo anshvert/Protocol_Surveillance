@@ -409,18 +409,13 @@ app = Flask(__name__)
 @app.route('/')
 def Shady():
     return render_template('Shady.html')
+
     
-@app.route('/FallDetection', methods=['GET', 'POST'])
-def FallDetection():
-    global case
-    case = 'fall'
-    return render_template('FallDetection.html')
-    
-@app.route('/ObjectDetection', methods=['GET', 'POST'])
+@app.route('/Facemaskdetection', methods=['GET', 'POST'])
 def ObjectDetection():
     global case
     case = 'object'
-    return render_template('ObjectDetection.html')
+    return render_template('FacemaskDetection.html')
     
 @app.route('/SocialDistancingDetection', methods=['GET', 'POST'])
 def SocialDistancingDetection():
@@ -428,12 +423,6 @@ def SocialDistancingDetection():
     case = 'social'
     return render_template('SocialDistancingDetection.html')
     
-    
-@app.route('/VehicleCrashDetection', methods=['GET', 'POST'])
-def VehicleCrashDetection():
-    global case
-    case = 'vehicle'
-    return render_template('VehicleCrashDetection.html')
 
 @app.route('/ContactUs')
 def ContactUs():
