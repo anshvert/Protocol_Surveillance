@@ -1,4 +1,5 @@
-# S.H.A.D.Y
+Protocol Surveillance for Communicable Diseases using YOLO
+
 
 Smart Human Activity Detection Using [YOLO](https://pjreddie.com/darknet/yolo/)
 
