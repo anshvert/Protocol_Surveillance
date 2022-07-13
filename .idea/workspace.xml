@@ -4,146 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5090e7-516e-47e9-9572-0a6d6d25dd9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CPS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CPS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="df5090e7-516e-47e9-9572-0a6d6d25dd9d" name="Changes" comment="changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deployed App/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/static/assets/images/shady-1-122x123.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/static/assets/images/shady-192x193.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/templates/ContactUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deployed App/templates/ContactUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/templates/FallDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/templates/ObjectDetection.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deployed App/templates/FacemaskDetection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/templates/Shady.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deployed App/templates/Shady.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/templates/SocialDistancingDetection.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deployed App/templates/SocialDistancingDetection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/templates/VehicleCrashDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deployed App/templates/Video.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deployed App/templates/Video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fall_Detection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/ContactUs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/FallDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/ObjectDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/Shady.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/SocialDistancingDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/VehicleCrashDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/Video.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/dropdown/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/dropdown/js/script.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/Montserrat-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/fonts/montserrat/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/formoid/formoid.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/images/hashes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/images/mbr- 1920x1281.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/images/mbr-1920x1281.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/images/mbr-favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/images/shady-1-122x123.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/images/shady-192x193.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/mobirise/css/mbr-additional.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/parallax/jarallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/popper/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/smoothscroll/smooth-scroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/socicon/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/socicon/fonts/socicon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/socicon/fonts/socicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/socicon/fonts/socicon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/socicon/fonts/socicon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/tether/tether.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/tether/tether.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/theme/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/theme/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/touchswipe/jquery.touch-swipe.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/vimeoplayer/jquery.mb.vimeo_player.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons/mobirise-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons/mobirise-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons/mobirise-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons/mobirise-icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons/mobirise-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons2/mobirise2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons2/mobirise2.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons2/mobirise2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons2/mobirise2.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/assets/web/assets/mobirise-icons2/mobirise2.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/300.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/300italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/500.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/500italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/600.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/600italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/700.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/700italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/800.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/800italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/900italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHADY Website/fonts/Rubik/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vehicle_Crash.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,6 +145,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651494578987</updated>
     </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1657419533313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657419533313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,5 +165,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
